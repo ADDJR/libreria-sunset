@@ -1,0 +1,39 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>paginaw</title>
+<!-- TemplateEndEditable -->
+<link href="../estilos.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+<div class="container">
+  <div class="header"><a href="#"></a> 
+    <!-- end .header -->
+    <h1> LIBRERIA SUNSET</h1>
+  </div>
+  <div class="sidebar1">
+    <ul class="nav">
+      <li><a href="#">INICIO</a></li>
+      <li><a href="#">VISION/MISION</a></li>
+      <li><a href="#">G.LITERARIOS</a></li>
+      <li><a href="#">CONTACTO</a></li>
+    </ul>
+    <p>&nbsp;</p>
+    <!-- end .sidebar1 --></div>
+  <div class="content">
+    <h2><!-- TemplateBeginEditable name="Titulo" -->Titulo<!-- TemplateEndEditable --></h2>
+    <!-- TemplateBeginEditable name="Contenido" -->
+    <p>Contenido</p>
+    <!-- TemplateEndEditable --><!-- end .content --></div>
+  <div class="footer">
+    <p> Derechos Reservados a Libreria Sunset 2023 °</p>
+    <!-- end .footer --></div>
+  <!-- end .container --></div>
+</body>
+</html>
